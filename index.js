@@ -1,5 +1,6 @@
 
-var Promise = require('native-or-bluebird');
+var Promise = require('any-promise');
+
 var pHash = require('./build/Release/pHash');
 
 module.exports = pHashImage;
