@@ -6,9 +6,9 @@
   "devDependencies": {
     "bluebird": "^3.1.5",
     "hamming-distance": "^1.0.0",
-    "istanbul": "0",
+    "istanbul": "^0.4.2",
     "mocha": "^2.0.0",
-    "node-gyp": "*"
+    "node-gyp": "^3.3.0"
   },
   "script": {
     "preinstall": "node-gyp configure build",
@@ -38,7 +38,7 @@
   ],
   "dependencies": {
     "nan": "^2.0.5",
-    "native-or-bluebird": "1"
+    "native-or-bluebird": "^1.0.0"
   },
   "license": "MIT"
 }
