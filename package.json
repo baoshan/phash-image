@@ -1,6 +1,6 @@
 {
   "name": "phash-image",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "description": "phash for images",
   "repository": "mgmtio/phash-image",
   "devDependencies": {
