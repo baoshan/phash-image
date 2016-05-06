@@ -38,7 +38,7 @@
   ],
   "dependencies": {
     "any-promise": "^1.1.0",
-    "nan": "^2.0.5"
+    "nan": "^2.3.3"
   },
   "license": "MIT"
 }
